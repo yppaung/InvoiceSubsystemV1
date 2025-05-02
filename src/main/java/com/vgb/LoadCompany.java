@@ -27,9 +27,11 @@ public class LoadCompany implements DataMapper<Company> {
 		String companyName = rs.getString("companyName");
 		
 		Integer personId = rs.getInt("personId");
-		Person contact = IDLoader.loadPersonById(personId, conn);
+		Person contact = null;
 		
-		
+		if (!rs.wasNull()) {
+		    contact = IDLoader.loadPersonById(personId, conn);
+		}
 		Integer addressId = rs.getInt("addressId");
 		Address address = IDLoader.loadAddressById(addressId, conn);
 		

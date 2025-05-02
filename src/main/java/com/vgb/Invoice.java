@@ -144,10 +144,12 @@ public int hashCode() {
 	
 	@Override
 	public String toString() {
+		String contactStr = (this.getSalesperson() != null) ? this.getSalesperson().toString() : "N/A";
+		
 		return String.format("Invoice ID: %s \n \n"
 				+ "Customer: %s \n"
 				+ "Salesperson: %s \n", this.getInvoiceUUID(), this.getCustomer().toString(),
-				this.getSalesperson().toString());
+				contactStr);
 	}
     
 	

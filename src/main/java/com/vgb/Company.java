@@ -63,9 +63,9 @@ public class Company {
 	
 	@Override
 	public String toString() {
-		
+		String contactStr = (this.getContact() != null) ? this.getContact().toString() : "N/A";
 		return String.format("%s (%s) \n %s \n \n %30s", this.getName(), this.getUuid(),
-				this.getContact().toString(), this.getAddress().toString());
+				contactStr, this.getAddress().toString());
 	}
 
 
