@@ -131,8 +131,9 @@ public class InvoiceReport {
     	}
     
     public static void main(String[] args) {
-        System.out.println(InvoiceReport.printAllSummaryReports());
+//        System.out.println(InvoiceReport.printAllSummaryReports());
         System.out.println(InvoiceReport.printInvoice());
+        
      
 			
 		

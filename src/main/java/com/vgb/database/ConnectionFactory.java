@@ -12,9 +12,9 @@ import java.sql.SQLException;
 
 public abstract class ConnectionFactory {
 
-	private static final String URL = "jdbc:mysql://nuros.unl.edu/yaung3";
-	private static final String USERNAME = "yaung3";
-	private static final String PASSWORD = "Iesangu8Sha0";
+	private static final String URL = "jdbc:mysql://nuros.unl.edu/rsamarasinghe2";
+	private static final String USERNAME = "rsamarasinghe2";
+	private static final String PASSWORD = "mohmao4Coaha";
 
 	public static Connection getConnection() throws SQLException {
 		Connection connection = null;

@@ -642,7 +642,7 @@ public class InvoiceData {
 
 				stmt.setString(1, UUID.randomUUID().toString());
 				stmt.setString(2, invoiceUuid.toString());
-				stmt.setString(3, "P");
+				stmt.setString(3, "C");
 				stmt.setString(4, itemUuid.toString());
 				stmt.setDouble(5, amount);
 				stmt.executeUpdate();

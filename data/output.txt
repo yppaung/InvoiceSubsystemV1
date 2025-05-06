@@ -1,0 +1,298 @@
+==========================================
+Company Summary
+==========================================
+
+Bluejam 
+                                                                       2          $151624.82
+Quamba 
+                                                                       1          $230100.00
+Mynte 
+                                                                       1          $3449.64
+Edgeclub 
+                                                                       1          $1350.09
+Thoughtworks 
+                                                                       1          $6209.22
+Snaptags 
+                                                                       1          $964.35
+Jaxworks 
+                                                                       1          $12003.59
+Digitube 
+                                                                       1          $17829.60
+Jaxbean 
+                                                                       1          $10000.00
+
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #                                Customer                        Num Items          Tax        Total
+795f3151-c380-4b14-adc4-3df250444225     Bluejam                                 1      7455.00    149455.00
+9d1bef3d-e36b-45eb-a308-40b3a1d7df14     Jaxworks                                3       593.59     12003.59
+2bbd815b-d292-4523-81ad-8cb651adf6c3     Quamba                                  1      1500.00    230100.00
+df0d3a53-d47e-4db7-a753-34e5b0e0aa39     Digitube                                1      4029.60     17829.60
+2d97644c-6fbd-4aa4-85fb-410305fbfd88     Snaptags                                1        64.35       964.35
+aeca44c1-7719-4e96-8ac1-2cb7dbe1fa67     Mynte                                   2       779.64      3449.64
+e3a4f06d-5aa7-4a8c-937d-472199c84731     Edgeclub                                1        90.09      1350.09
+596de8f3-706f-4c04-8763-0b520953b3a0     Jaxbean                                 1         0.00     10000.00
+a2439cce-3c45-44c8-bab9-bf2efa3a2597     Thoughtworks                            2       329.22      6209.22
+2fd45dbe-5a68-4cf5-a77e-bc2d10475f4e     Bluejam                                 1       389.82      2169.82
++----------------------------------------------------------------------------------------+
+                                                                                 14     15231.31    433531.31
+Invoice ID: a2439cce-3c45-44c8-bab9-bf2efa3a2597 
+ 
+Customer: Thoughtworks (11efd8b7-3ddf-4884-bda4-91b9b8a6045d) 
+ Doyle, Baillie (db0c8f6e-6754-43bd-957a-56e25db4bf58) 
+ ["bdoyle0@google.it, bdoyle5@gmail.com"] 
+ 206-405-6942 
+ 
+ 38 Ridge Oak Road Buffalo, 
+ NY 14269 
+Salesperson: Oulet, Rivi (12d0bc49-4ab7-4398-bd91-1f69ea34cb0c) 
+          [roulet2@pcworld.com] 
+ 630-558-9274 
+Items(2)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+f871f128-23c8-41e8-a755-861ae74d8d07 (Purchase) 
+ RLT120-Roller 
+                                                                        $4800.0 $252.0 $5052.0
+ e6da2367-e2e7-4a4a-ab8f-1bc756e49a7e (Material) screws 
+                 60.0 @ $ 18.0/per box 
+                                                                        $1080.0 $77.22 $1157.22 
+ 
+Invoice Total                                                           ------------------------- 
+                                                                        $5880.0 $329.22 $6209.22
+
++=====================================================================+ 
+Invoice ID: 2bbd815b-d292-4523-81ad-8cb651adf6c3 
+ 
+Customer: Quamba (a4f373f0-9dd0-46b0-a69b-55bdeae4a4a2) 
+ Defond, Tammy (8793e2b8-eba2-415d-ae42-039e989e17d2) 
+           [tdefond1@state.gov] 
+ 796-711-0270 
+ 
+ 56 Mayer Circle New York City, 
+ NY 10099 
+Salesperson: Aisbett, Anatollo (1718532c-2b86-475f-9986-6ee702df1a42) 
+  [aaisbett3@cocolog-nifty.com] 
+ 831-710-1185 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ 146475e4-241a-4ac4-a571-51ec95794624 (Lease) 
+           Excavator | 2023-12-01 - 2025-12-31 (762.0) days 
+                                                                        $228600.0 $1500.0 $230100.0
+Invoice Total                                                           ------------------------- 
+                                                                        $228600.0 $1500.0 $230100.0
+
++=====================================================================+ 
+Invoice ID: 596de8f3-706f-4c04-8763-0b520953b3a0 
+ 
+Customer: Jaxbean (676f975a-bc3c-459c-a351-05912df5805c) 
+ Spelwood, Ronalda (33570a60-102c-456d-9fdb-ff21584ae2fa) 
+    [rspelwood7@wikispaces.com] 
+ 384-877-3766 
+ 
+ 18 Maywood Lane Elizabeth, 
+ NJ 7208 
+Salesperson: Costar, Hyacinth (13e377a1-2f64-4299-b115-399e74e9e308) 
+       [hcostar9@pinterest.com] 
+ 697-551-7728 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+eaa9fc89-4004-4403-a3ac-fa15e9775231 (Contract) roof installation 
+                                                                        $10000.0 $0.0 $     10000.0
+ Digitube 
+ 
+Invoice Total                                                           ------------------------- 
+                                                                        $10000.0 $0.0 $10000.0
+
++=====================================================================+ 
+Invoice ID: df0d3a53-d47e-4db7-a753-34e5b0e0aa39 
+ 
+Customer: Digitube (475f9b47-2cf0-498a-9dbf-040461e0f305) 
+ Pascall, Dewain (d3c4e070-2e9f-4bd1-8dd5-ace6963f4e76) 
+            [dpascall2@hhs.gov] 
+ 646-379-7888 
+ 
+ 33 Mallard Point Anaheim, 
+ CA 92825 
+Salesperson: Body, Geralda (467a2470-03a9-404c-bda3-51d318b5a84c) 
+            [gbody4@apache.org] 
+ 629-242-1163 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ 6a098f1d-4e31-46f5-a58f-56318236b759 (Rental) Haul Truck-HAULX9000 
+ 150.0 hours @ 92.0/per hour 
+                                                                        $13800.0 $4029.6 $17829.6 
+
+Invoice Total                                                           ------------------------- 
+                                                                        $13800.0 $4029.6 $17829.6
+
++=====================================================================+ 
+Invoice ID: aeca44c1-7719-4e96-8ac1-2cb7dbe1fa67 
+ 
+Customer: Mynte (0cab815e-0e4a-4e77-ad6c-3ae296734bd1) 
+ Udey, Jules (94953e67-59de-4dd9-997e-f26a11f1bc47) 
+        [judey6@opensource.org] 
+ 680-690-0410 
+ 
+   3 East Avenue Washington, 
+ DC 20420 
+Salesperson: Hannaby, Frieda (66a5457c-c664-4202-869c-55f0b73c4669) 
+          [fhannaby8@google.it] 
+ 741-843-3475 
+Items(2)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ b6847824-50e9-4d6b-9bbe-b11070a7b12c (Rental) Mini Excavator-ME4500 
+ 150.0 hours @ 8.9/per hour 
+                                                                        $1335.0 $389.82 $1724.82 
+
+ b6847824-50e9-4d6b-9bbe-b11070a7b12c (Rental) Mini Excavator-ME4500 
+ 150.0 hours @ 8.9/per hour 
+                                                                        $1335.0 $389.82 $1724.82 
+
+Invoice Total                                                           ------------------------- 
+                                                                        $2670.0 $779.64 $3449.64
+
++=====================================================================+ 
+Invoice ID: 2fd45dbe-5a68-4cf5-a77e-bc2d10475f4e 
+ 
+Customer: Bluejam (965c71ca-77c3-49a8-9f0c-5aa61630e417) 
+ Leere, Baudoin (e6fd450d-9c21-44c3-8c5a-e788243768a5) 
+       [bleere9@privacy.gov.au] 
+ 237-269-2718 
+ 
+ 6 Forest Dale Terrace Akron, 
+ OH 44329 
+Salesperson: Leere, Baudoin (e6fd450d-9c21-44c3-8c5a-e788243768a5) 
+       [bleere9@privacy.gov.au] 
+ 237-269-2718 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ b6847824-50e9-4d6b-9bbe-b11070a7b12c (Rental) Mini Excavator-ME4500 
+ 200.0 hours @ 8.9/per hour 
+                                                                        $1780.0 $389.82 $2169.82 
+
+Invoice Total                                                           ------------------------- 
+                                                                        $1780.0 $389.82 $2169.82
+
++=====================================================================+ 
+Invoice ID: 795f3151-c380-4b14-adc4-3df250444225 
+ 
+Customer: Bluejam (965c71ca-77c3-49a8-9f0c-5aa61630e417) 
+ Leere, Baudoin (e6fd450d-9c21-44c3-8c5a-e788243768a5) 
+       [bleere9@privacy.gov.au] 
+ 237-269-2718 
+ 
+ 6 Forest Dale Terrace Akron, 
+ OH 44329 
+Salesperson: Leere, Baudoin (e6fd450d-9c21-44c3-8c5a-e788243768a5) 
+       [bleere9@privacy.gov.au] 
+ 237-269-2718 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+e9412412-89bb-4a57-af58-6b7c2b643994 (Purchase) 
+ LD500X-Loader 
+                                                                        $142000.0 $7455.0 $149455.0
+Invoice Total                                                           ------------------------- 
+                                                                        $142000.0 $7455.0 $149455.0
+
++=====================================================================+ 
+Invoice ID: 9d1bef3d-e36b-45eb-a308-40b3a1d7df14 
+ 
+Customer: Jaxworks (1d30a64b-8595-4e70-9885-37ba844ecec5) 
+ McQuaid, Sheelah (cedd1ab7-65aa-422a-9e3a-988dfdd69850) 
+   [smcquaid5@reverbnation.com] 
+ 414-512-2754 
+ 
+ 6875 Crownhardt Point Independence, 
+ MO 64054 
+Salesperson: Marcinkowski, Larisa (ecdca8ca-c96d-4b60-81de-fda79e0d9e46) 
+       [lmarcinkowski7@mac.com] 
+ 114-570-7889 
+Items(3)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ 464c11d3-f2b3-4603-86e2-9ea2387bfbdc (Material) plasterboard 
+                 75.0 @ $ 38.0/per sheet 
+                                                                        $2850.0 $203.77 $3053.77 
+ 1672210c-f7c5-4642-87c4-0dd824693d07 (Contract) wall construction 
+                                                                        $5000.0 $0.0 $      5000.0
+ Thoughtworks 
+ 
+ b6847824-50e9-4d6b-9bbe-b11070a7b12c (Rental) Mini Excavator-ME4500 
+ 400.0 hours @ 8.9/per hour 
+                                                                        $3560.0 $389.82 $3949.82 
+
+Invoice Total                                                           ------------------------- 
+                                                                        $11410.0 $593.59 $12003.59
+
++=====================================================================+ 
+Invoice ID: 2d97644c-6fbd-4aa4-85fb-410305fbfd88 
+ 
+Customer: Snaptags (9e5798db-f03c-4e6f-8a43-9f195864f2cb) 
+ Thirlaway, Peadar (0fa90d33-366f-48e2-bf35-1a979f3133c4) 
+  [pthirlaway4@arstechnica.com] 
+ 803-249-8477 
+ 
+ 5 Golf Course Avenue Omaha, 
+ NE 68164 
+Salesperson: Sircomb, Keefer (15d08bd2-d701-47b3-9da4-f73ecde6961a) 
+   [ksircomb6@odnoklassniki.ru] 
+ 172-426-5736 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ e6da2367-e2e7-4a4a-ab8f-1bc756e49a7e (Material) screws 
+                 50.0 @ $ 18.0/per box 
+                                                                        $900.0 $64.35 $964.35 
+ 
+Invoice Total                                                           ------------------------- 
+                                                                        $900.0 $64.35 $964.35
+
++=====================================================================+ 
+Invoice ID: e3a4f06d-5aa7-4a8c-937d-472199c84731 
+ 
+Customer: Edgeclub (ca49d76e-fb80-4f56-998c-bfae585082f6) 
+ Mewe, Sula (11d4f2a3-7b10-41e1-a432-f5c85015bd71) 
+             [smewe3@youku.com] 
+ 307-967-7688 
+ 
+ 545 Michigan Court Minneapolis, 
+ MN 55441 
+Salesperson: Jedrych, Marshal (d5117bc9-1d80-41f5-b495-0fb98f052979) 
+          [mjedrych5@exblog.jp] 
+ 704-747-3207 
+Items(1)
+----------------------------------------------------------------------
+
+                                                                        SUBTOTAL TAX TOTAL 
+
+ 56a775ee-7521-4c8a-9f0c-175dea919691 (Material) cement 
+                 30.0 @ $ 42.0/per bag 
+                                                                        $1260.0 $90.09 $1350.09 
+ 
+Invoice Total                                                           ------------------------- 
+                                                                        $1260.0 $90.09 $1350.09
+
++=====================================================================+ 

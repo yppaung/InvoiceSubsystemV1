@@ -69,7 +69,7 @@ public class Lease extends Equipment {
 	@Override
 	public String toString() {
 		return String.format("\n %s (Lease) \n"
-				+ "%20s | %s - %s (%s) days \n %70s $%s $%s $%s", this.getUUID(), this.getName(),this.getStartDate() , this.getEndDate(),
+				+ "%20s | %s - %s (%s) days \n %70s $%s $%s $%s \n", this.getUUID(), this.getName(),this.getStartDate() , this.getEndDate(),
 				this.calculateDays(), " ", this.getSubTotal(), this.getTaxes(), this.getTotal());
 	}
 	
