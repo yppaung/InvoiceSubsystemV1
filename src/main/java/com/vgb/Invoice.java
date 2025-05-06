@@ -80,7 +80,7 @@ public class Invoice {
 	/**
 	 * Returns the sum of SubTotals in an invoice
 	 */
-public double grandSubTotal(List<InvoiceItem> invoiceItem){
+	public double grandSubTotal(List<InvoiceItem> invoiceItem){
 		
 		double total = 0.0;
 		for(InvoiceItem i : invoiceItem) {
@@ -92,10 +92,10 @@ public double grandSubTotal(List<InvoiceItem> invoiceItem){
 		return total;
 		
 	}
-/**
- * Returns the sum of taxes in an invoice
- */
-public double grandTaxTotal(List<InvoiceItem> invoiceItem){
+	/**
+	 * Returns the sum of taxes in an invoice
+	 */
+	public double grandTaxTotal(List<InvoiceItem> invoiceItem){
 	
 	double total = 0.0;
 	for(InvoiceItem i : invoiceItem) {
@@ -108,37 +108,37 @@ public double grandTaxTotal(List<InvoiceItem> invoiceItem){
 	
 }
 
-public String itemList(List<InvoiceItem> invoiceItem) {
-	StringBuilder report = new StringBuilder();
+	public String itemList(List<InvoiceItem> invoiceItem) {
+		StringBuilder report = new StringBuilder();
 
-for(InvoiceItem it : invoiceItem) {
-	if(it != null) {
+	for(InvoiceItem it : invoiceItem) {
+		if(it != null) {
 		report.append( it.getItem().toString());
 	}
 
 }
 
-report.append(String.format("\nInvoice Total %57s -------------------------"
+	report.append(String.format("\nInvoice Total %57s -------------------------"
 		+ " \n %70s $%s $%s $%s\n", " ",
-" ",grandSubTotal(invoiceItem),
-grandTaxTotal(invoiceItem),
-grandTotal(invoiceItem)));
+		" ",grandSubTotal(invoiceItem),
+		grandTaxTotal(invoiceItem),
+		grandTotal(invoiceItem)));
 
-return report.toString();
+		return report.toString();
 					
 }
 
-@Override
-public boolean equals(Object o) {
-    if (this == o) return true;
-    if (o == null || getClass() != o.getClass()) return false;
-    Invoice invoice = (Invoice) o;
-    return invoiceUUID.equals(invoice.invoiceUUID);
+	@Override
+	public boolean equals(Object o) {
+		if (this == o) return true;
+		if (o == null || getClass() != o.getClass()) return false;
+		Invoice invoice = (Invoice) o;
+		return invoiceUUID.equals(invoice.invoiceUUID);
 }
 
-@Override
-public int hashCode() {
-    return invoiceUUID.hashCode();
+	@Override
+	public int hashCode() {
+		return invoiceUUID.hashCode();
 }
 
 	
