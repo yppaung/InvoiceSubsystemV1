@@ -62,6 +62,32 @@ public class IDLoader <T> {
     	
     }
     
+    
+    public T loadById(String query, int invoiceId, int invoiceItemId, Connection conn) {
+    	T entity = null;
+    	
+    	
+    	try {
+    		
+    		PreparedStatement ps = conn.prepareStatement(query);
+            ps.setInt(1, invoiceId);
+            ps.setInt(2, invoiceItemId);
+            ResultSet rs = ps.executeQuery();
+    		
+            if(rs.next()) {
+    			entity = mapper.map(rs, conn);
+    		}
+            rs.close();
+            ps.close();
+    		
+    	}catch(SQLException e) {
+    		LOGGER.error("Something bad happening loading generic by ID :(", e);
+    	}
+    	
+    	return entity;
+    	
+    }
+    
     public T loadById(String query, UUID uuid, Connection conn) {
     	T entity = null;
     	

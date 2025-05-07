@@ -96,6 +96,8 @@ public class DataLoader {
     	        ResultSet rs = DataFactory.runQuery(query);
 
     	        while (rs.next()) {
+    	        	
+    	        	
     	            Invoice invoice = IDLoader.loadInvoiceById(rs.getInt("invoiceId"), conn) ;
     	            T item = mapper.map(rs, conn);
 

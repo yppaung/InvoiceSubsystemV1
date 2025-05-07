@@ -31,7 +31,17 @@ public class LoadInvoiceItem implements DataMapper<InvoiceItem>{
 	    LoadItem mapper = new LoadItem();
 	    IDLoader<Item> service = new IDLoader<>(mapper);
 	    
-	    char EQType = rs.getString("typeEquipment").charAt(0);
+	    int itemId = rs.getInt("itemId");
+        if (rs.wasNull()) {
+            return null;
+        }
+        
+        String typeEquipment = rs.getString("typeEquipment");
+        if (typeEquipment == null || typeEquipment.isEmpty()) {
+            return null;
+        }
+	    
+	    char EQType = typeEquipment.charAt(0);
 	    Item item = service.loadById(
 	        """
 	    		SELECT 
@@ -45,8 +55,10 @@ public class LoadInvoiceItem implements DataMapper<InvoiceItem>{
 	    		customerId
 	    		FROM Item WHERE itemId = ?
 	    	""",
-	        rs.getInt("itemId"), conn
+	        itemId, conn
 	    );
+	    
+	    
 
 	    LoadInvoice map = new LoadInvoice();
 	    IDLoader<Invoice> invoiceLoader = new IDLoader<>(map);
@@ -62,7 +74,7 @@ public class LoadInvoiceItem implements DataMapper<InvoiceItem>{
 	    		""",
 	        rs.getInt("invoiceId"), conn
 	    );
-
+	    
 	    switch (EQType) {
 	        case 'L':
 	            LocalDate startDate = LocalDate.parse(rs.getString("startDate"));

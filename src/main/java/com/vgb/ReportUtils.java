@@ -32,16 +32,17 @@ public class ReportUtils {
         try (Connection conn = ConnectionFactory.getConnection()) {
             invoiceItemMap = dl.groupData("""
                     SELECT invoiceItemId,
-                        uuid,
-                        invoiceId,
-                        itemId,
+                        i.uuid,
+                        i.invoiceId,
+                        invItem.itemId,
                         typeEquipment,
                         price,
                         startDate,
                         endDate,
                         quantity,
                         numberOfHours
-                        FROM InvoiceItem
+                        FROM Invoice i LEFT JOIN InvoiceItem invItem 
+                        ON i.invoiceId = invItem.invoiceId
                     """, new LoadInvoiceItem(), conn);
         } catch (SQLException e) {
             LOGGER.error("Populating invoice connection error", e);
