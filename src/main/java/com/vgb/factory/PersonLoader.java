@@ -1,4 +1,4 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,6 +9,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.UUID;
+
+import com.vgb.Person;
 /*
  * Utility Class for reading a person from a flat data file (.csv)
  * 

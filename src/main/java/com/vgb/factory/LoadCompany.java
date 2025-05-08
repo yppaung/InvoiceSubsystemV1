@@ -1,9 +1,13 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.UUID;
+
+import com.vgb.Address;
+import com.vgb.Company;
+import com.vgb.Person;
 import com.vgb.database.DataMapper;
 import com.vgb.database.IDLoader;
 

@@ -1,9 +1,18 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.LocalDate;
+
+import com.vgb.Invoice;
+import com.vgb.InvoiceItem;
+import com.vgb.Item;
+import com.vgb.Lease;
+import com.vgb.Material;
+import com.vgb.Rental;
+import com.vgb.Contract;
+import com.vgb.Equipment;
 import com.vgb.database.DataMapper;
 import com.vgb.database.IDLoader;
 

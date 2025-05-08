@@ -1,4 +1,4 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -8,6 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
 
+import com.vgb.Person;
 import com.vgb.database.DataMapper;
 
 /**

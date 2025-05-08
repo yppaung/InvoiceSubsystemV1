@@ -1,10 +1,17 @@
-package com.vgb;
+package com.vgb.factory;
 
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.UUID;
+
+import com.vgb.Company;
+import com.vgb.Contract;
+import com.vgb.Equipment;
+import com.vgb.Item;
+import com.vgb.Material;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 

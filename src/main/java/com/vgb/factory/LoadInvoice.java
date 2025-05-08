@@ -1,4 +1,4 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -6,6 +6,10 @@ import java.sql.SQLException;
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.UUID;
+
+import com.vgb.Company;
+import com.vgb.Invoice;
+import com.vgb.Person;
 import com.vgb.database.DataMapper;
 import com.vgb.database.IDLoader;
 /**

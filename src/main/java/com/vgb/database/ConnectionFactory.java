@@ -4,7 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-
 /**
  * Utility class for managing database connections. Handles connection creation
  * and safe closure with logging.

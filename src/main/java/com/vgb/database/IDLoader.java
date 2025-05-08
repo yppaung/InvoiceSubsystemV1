@@ -15,9 +15,9 @@ import org.slf4j.LoggerFactory;
 import com.vgb.Address;
 import com.vgb.Company;
 import com.vgb.Invoice;
-import com.vgb.LoadAddress;
-import com.vgb.LoadPerson;
 import com.vgb.Person;
+import com.vgb.factory.LoadAddress;
+import com.vgb.factory.LoadPerson;
 
 
 

@@ -1,9 +1,10 @@
-package com.vgb;
+package com.vgb.factory;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import com.vgb.Address;
 import com.vgb.database.DataMapper;
 
 /**
