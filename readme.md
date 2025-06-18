@@ -45,7 +45,8 @@ Object-oriented design principles with a database-backed infrastructure
 - No External Sorting: Internal ordering maintenance ensures no external sorting operations are required
 
 
-- **Technical Implementation**: Details on database integration, API design, and data exchange formats
+## **Technical Implementation**
+- Details on database integration, API design, and data exchange formats
 ## System Components
 ## Custom Sorted List ADT
 - Generic Implementation: Designed to work with any data type
