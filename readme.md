@@ -47,7 +47,7 @@ Object-oriented design principles with a database-backed infrastructure
 
 - **Technical Implementation**: Details on database integration, API design, and data exchange formats
 ## System Components
-Custom Sorted List ADT
+## Custom Sorted List ADT
 - Generic Implementation: Designed to work with any data type
 - Comparator Support: Accepts Comparator objects at instantiation for flexible sorting criteria
 - Internal Ordering: Maintains ordering internally without requiring external sorting operations
