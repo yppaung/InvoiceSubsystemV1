@@ -1,6 +1,7 @@
 # Invoice Subsystem - Very Good Building & Development Company (VGB)
 ## Authors
-
+- Yin Po Po Aung (yaung3@huskers.unl.edu) NUID: 67427577
+- Rometh Samarasinghe (rsamarasinghe2@huskers.unl.edu) NUID: 86173632
 
 ## Overview
 This document provides the technical design for the **Invoice Subsystem** of **Very Good Building & Development Company (VGB)**, Ron Swanson's company. VGB is a construction company involved in various aspects of the industry, including:  
